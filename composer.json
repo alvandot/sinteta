@@ -9,7 +9,7 @@
         "barryvdh/laravel-dompdf": "^3.0",
         "endroid/qr-code": "^5.0",
         "fakerphp/faker": "^1.24.1",
-        "laravel/framework": "^11.0",
+        "laravel/framework": "^11.41.3",
         "laravel/sanctum": "^4.0",
         "laravel/tinker": "^2.10",
         "livewire/livewire": "^3.5",
